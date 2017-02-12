@@ -25,3 +25,15 @@ Python/Product/Django/Templates/Projects/*/ps.cmd
 __pycache__/
 /Python/*.VC.opendb
 /Python/*.VC.db
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
